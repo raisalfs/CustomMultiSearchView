@@ -1,0 +1,2 @@
+include ':app', ':multisearchviewlib'
+rootProject.name = "CustomMultiSearchView"
