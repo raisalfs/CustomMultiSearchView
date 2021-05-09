@@ -1,5 +1,6 @@
 # CustomMultiSearchView
 
+# Demo
 ![GIF](https://raw.githubusercontent.com/raisalfs/CustomMultiSearchView/master/1.gif)
 
 ## Credits
