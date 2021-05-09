@@ -1,6 +1,6 @@
 # CustomMultiSearchView
 
-Example implementation of (MultiSearchView)[https://github.com/iammert/MultiSearchView]
+Example implementation of [MultiSearchView](https://github.com/iammert/MultiSearchView)
 
 # Demo
 ![GIF](https://raw.githubusercontent.com/raisalfs/CustomMultiSearchView/master/1.gif)
